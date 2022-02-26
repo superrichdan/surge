@@ -1,0 +1,5 @@
+USER-AGENT,SpeedTest*
+DOMAIN-KEYWORD,speedtest
+DOMAIN,speed.dler.io
+DOMAIN-SUFFIX,ooklaserver.net
+DOMAIN-SUFFIX,speed.cloudflare.com
