@@ -3,6 +3,7 @@ DOMAIN-SUFFIX,odysseyplus.site //奥德赛
 DOMAIN-SUFFIX,emby.wtf //终点站
 DOMAIN-SUFFIX,jmsooo.com //卷毛鼠
 DOMAIN-SUFFIX,emby.lvlv.lv
+DOMAIN-SUFFIX,cc.ccemby.tk
 IP-CIDR,144.76.203.211/32,no-resolve //卷毛鼠
 IP-CIDR,38.94.109.52/32,no-resolve //奥德赛
 IP-CIDR,202.61.255.248/32,no-resolve //莫高雷
