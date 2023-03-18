@@ -3,9 +3,9 @@ DOMAIN-SUFFIX,odysseyplus.site //奥德赛
 DOMAIN-SUFFIX,emby.wtf //终点站
 DOMAIN-SUFFIX,jmsooo.com //卷毛鼠
 DOMAIN-SUFFIX,emby.lvlv.lv
-DOMAIN-KEYWORD,mulgore.net
-DOMAIN-KEYWORD,nebula-emby.com
-DOMAIN-KEYWORD,ccemby
+DOMAIN-KEYWORD,mulgore.net //莫高雷
+DOMAIN-KEYWORD,nebula-emby.com //Nebula
+DOMAIN-KEYWORD,ccemby //CC
 IP-CIDR,144.76.203.211/32,no-resolve //卷毛鼠
 IP-CIDR,38.94.109.52/32,no-resolve //奥德赛
 IP-CIDR,202.61.255.248/32,no-resolve //莫高雷
