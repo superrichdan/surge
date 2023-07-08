@@ -1,0 +1,13 @@
+DOMAIN-SUFFIX, openai.com, OpenAi
+DOMAIN-SUFFIX,ai.com,OpenAi
+DOMAIN-SUFFIX,cdn.auth0.com,OpenAi
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net,OpenAi
+DOMAIN-KEYWORD,openai,OpenAi
+DOMAIN-SUFFIX,azureedge.net,OpenAi
+DOMAIN-SUFFIX,sentry.io,OpenAi
+DOMAIN-SUFFIX,azurefd.net,OpenAi
+DOMAIN-SUFFIX,intercomcdn.com,OpenAi
+DOMAIN-SUFFIX,intercom.io,OpenAi
+DOMAIN-SUFFIX,google-analytics.com,OpenAi
+DOMAIN-SUFFIX,identrust.com,OpenAi
+DOMAIN-SUFFIX,challenges.cloudflare.com,OpenAi
