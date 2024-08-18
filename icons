@@ -1,0 +1,13 @@
+{
+  "name": "Midori's Custom Icons",
+  "icons": [
+    {
+      "name": "Midori",
+      "url": "https://raw.githubusercontent.com/midori01/surge/main/icons/img/midori.png"
+    },
+    {
+      "name": "Billd",
+      "url": "https://raw.githubusercontent.com/midori01/surge/main/icons/img/billd.png"
+    }
+  ]
+}
