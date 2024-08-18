@@ -1,9 +1,9 @@
 {
-  "name": "Midori's Custom Icons",
+  "name": "Dan's Icons",
   "icons": [
     {
-      "name": "Midori",
-      "url": "https://raw.githubusercontent.com/midori01/surge/main/icons/img/midori.png"
+      "name": "flag_cn",
+      "url": "https://raw.githubusercontent.com/midori01/surge/main/icons/img/flag_cn.png"
     },
     {
       "name": "Billd",
