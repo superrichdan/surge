@@ -3,11 +3,135 @@
   "icons": [
     {
       "name": "flag_cn",
-      "url": "https://raw.githubusercontent.com/midori01/surge/main/icons/img/flag_cn.png"
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/flag_cn.png"
     },
     {
-      "name": "Billd",
-      "url": "https://raw.githubusercontent.com/midori01/surge/main/icons/img/billd.png"
-    }
+      "name": "flag_hk",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/flag_hk.png"
+    },  
+    {
+      "name": "flag_jp",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/flag_jp.png"
+    },
+    {
+      "name": "flag_sg",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/flag_sg.png"
+    },
+    {
+      "name": "flag_tw",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/flag_tw.png"
+    },
+    {
+      "name": "flag_us",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/flag_us.png"
+    },
+    {
+      "name": "global",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/global.png"
+    },
+    {
+      "name": "globe",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/globe.png"
+    },
+    {
+      "name": "earth",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/earth.png"
+    },
+    {
+      "name": "pacman",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/pacman.png"
+    },
+    {
+      "name": "Game",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/Game.png"
+    },
+    {
+      "name": "Game1",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/Game1.png"
+    },
+    {
+      "name": "Reject",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/Reject.png"
+    },
+    {
+      "name": "Reject.orig",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/Reject.orig.png"
+    },
+    {
+      "name": "Speedtest",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/Speedtest.png"
+    },
+    {
+      "name": "Steam",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/Steam.png"
+    },
+    {
+      "name": "Amazon",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/Amazon.png"
+    },
+    {
+      "name": "Apple",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/Apple.png"
+    },
+    {
+      "name": "Google",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/Google.png"
+    },
+    {
+      "name": "chatgpt",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/chatgpt.png"
+    },
+    {
+      "name": "Paypal",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/Paypal.png"
+    },
+    {
+      "name": "Spotify",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/Spotify.png"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/Telegram.png"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/Twitter.png"
+    },
+    {
+      "name": "youtube",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/youtube.png"
+    },
+    {
+      "name": "TikTok",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/TikTok.png"
+    },
+    {
+      "name": "Emby",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/Emby.png"
+    },
+    {
+      "name": "Netflix",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/Netflix.png"
+    },
+    {
+      "name": "Disney+",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/Disney+.png"
+    },
+    {
+      "name": "HBO",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/HBO.png"
+    },
+    {
+      "name": "PrimeVideo",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/PrimeVideo.png"
+    },
+    {
+      "name": "Hulu",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/Hulu.png"
+    },
+    {
+      "name": "Pornhub",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/Pornhub.png"
+    },
   ]
 }
