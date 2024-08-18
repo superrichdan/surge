@@ -136,6 +136,14 @@
     {
       "name": "Pornhub",
       "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/Pornhub.png"
+    },
+   {
+      "name": "pokemon_pokeball",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/pokemon_pokeball.png"
+    },
+   {
+      "name": "pokemon_pikachu",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/pokemon_pikachu.png"
     }
   ]
 }
