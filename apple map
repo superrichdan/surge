@@ -1,9 +1,0 @@
-# Apple location
-DOMAIN,gs-loc-cn.apple.com
-DOMAIN-SUFFIX,ls.apple.com
-USER-AGENT,%E5%9C%B0%E5%9B%BE*
-USER-AGENT,com.apple.geod*
-USER-AGENT,com.apple.Maps
-USER-AGENT,geod*
-USER-AGENT,locationd*
-USER-AGENT,Maps*
