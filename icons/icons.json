@@ -70,12 +70,44 @@
       "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/Steam.png"
     },
     {
+      "name": "xbox",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/xbox.png"
+    },
+    {
+      "name": "switch",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/switch.png"
+    },
+    {
+      "name": "github",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/github.png"
+    },
+    {
+      "name": "github1",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/github1.png"
+    },
+    {
+      "name": "github2",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/github2.png"
+    },
+    {
       "name": "Amazon",
       "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/Amazon.png"
     },
     {
       "name": "Apple",
       "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/Apple.png"
+    },
+    {
+      "name": "Apple1",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/Apple1.png"
+    },
+    {
+      "name": "Apple_Classic",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/Apple_Classic.png"
+    },
+    {
+      "name": "Apple_Arcade",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/Apple_Arcade.png"
     },
     {
       "name": "Google",
@@ -94,8 +126,16 @@
       "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/Spotify.png"
     },
     {
+      "name": "spotify1",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/spotify1.png"
+    },
+    {
       "name": "Telegram",
       "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/Telegram.png"
+    },
+    {
+      "name": "Telegram1",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/Telegram1.png"
     },
     {
       "name": "Twitter",
@@ -110,12 +150,32 @@
       "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/TikTok.png"
     },
     {
+      "name": "Nas",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/Nas.png"
+    },
+    {
       "name": "Emby",
       "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/Emby.png"
     },
     {
+      "name": "Infuse",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/Infuse.png"
+    },
+    {
+      "name": "Jellyfin",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/Jellyfin.png"
+    },
+    {
+      "name": "Plex",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/Plex.png"
+    },
+    {
       "name": "Netflix",
       "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/Netflix.png"
+    },
+    {
+      "name": "netflix1",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/netflix1.png"
     },
     {
       "name": "Disney+",
@@ -144,6 +204,11 @@
    {
       "name": "pokemon_pikachu",
       "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/pokemon_pikachu.png"
+    },
+   {
+      "name": "Pokemon_Togepi",
+      "url": "https://raw.githubusercontent.com/superrichdan/surge/main/icons/img/Pokemon_Togepi.png"
     }
+
   ]
 }
